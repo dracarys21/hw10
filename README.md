@@ -33,9 +33,9 @@ src/main/scala/pl/hw10/hw10.scala
 ```
 
 relative to the root directory of the repository. Follow the
-instructions in the notes for Class 2 to import the project into
-InteliJ (or use your other favorite IDE or editor to work on the assignment).
-
+instructions in the notes for setting up your Scala toolchain to
+import the project into InteliJ (or use your other favorite IDE or
+editor to work on the assignment).
 
 ## Submitting your solution
 
