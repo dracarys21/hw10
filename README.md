@@ -1,8 +1,8 @@
 # Homework 10 (20 Points)
 
 
-The deadline for Homework 9 is Wednesday, December 5, 5pm. The late
-submission deadline is Tuesday, December 11, 6pm.
+The deadline for Homework 10 is Monday, April 29, 8pm. The late
+submission deadline is Thursday, May 2, 6pm.
 
 The purpose of this homework assignment is to develop a better
 understanding of class inheritance, subtyping, and dynamic dispatch.
