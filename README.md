@@ -1,7 +1,7 @@
 # Homework 10 (20 Points)
 
 
-The deadline for Homework 10 is ~~Monday, April 29, 8pm~~ Tuesda, April 30, 8pm. The late
+The deadline for Homework 10 is ~~Monday, April 29, 8pm~~ Tuesday, April 30, 8pm. The late
 submission deadline is Thursday, May 2, 6pm.
 
 The purpose of this homework assignment is to develop a better
